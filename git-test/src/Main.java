@@ -8,6 +8,8 @@ public class Main {
 		label.printText();
 		System.out.println("2");
 		System.out.println("this is the branch test");
+		System.out.println("this is the second branch test");
+
 	}
 
 }
