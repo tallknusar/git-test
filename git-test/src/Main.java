@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("This is main");
 		thisLabel label = new thisLabel("tekst");
 		label.printText();
+		System.out.println("2");
 	}
 
 }
