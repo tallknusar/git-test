@@ -11,6 +11,7 @@ public class Main {
 		System.out.println("this is the second branch test");
 		System.out.println("check whats happening to the other branches when using merge on the master");
 		System.out.println("Added a third branch2");
+		System.out.println("history check");
 	}
 
 }
