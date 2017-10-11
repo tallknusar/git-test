@@ -7,6 +7,7 @@ public class Main {
 		thisLabel label = new thisLabel("tekst");
 		label.printText();
 		System.out.println("2");
+		System.out.println("this is the branch test");
 	}
 
 }
